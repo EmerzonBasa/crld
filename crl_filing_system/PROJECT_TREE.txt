@@ -1,0 +1,30 @@
+crl_filing_system
+.env.example
+DEPLOYMENT_CHECKLIST.md
+FILE_STRUCTURE.txt
+INSTALLATION.md
+PROJECT_SUMMARY.md
+PROJECT_TREE.txt
+QUICK_START.md
+README.md
+app.py
+database
+ schema.sql
+requirements.txt
+static
+ css
+  style.css
+ images
+ js
+  main.js
+ uploads
+templates
+ base.html
+ dashboard.html
+ documents.html
+ login.html
+ recycle_bin.html
+ reports.html
+ upload.html
+ users.html
+ verify_otp.html
